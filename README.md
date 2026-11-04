@@ -1,5 +1,5 @@
 # Wonky’s Keep Containers — World Placement & Management
-
+Preview https://www.youtube.com/watch?v=FtHQJvCCJ5s
 A Qbox conversion of [Swkeep’s keep-containers](https://github.com/swkeep/keep-containers), based on version 1.2.0. Place persistent storage containers outside the original depot zones and manage them in-game.
 
 - `Config.PlaceAnywhere = true` enables placement outside configured depots, subject to the placement checks.
